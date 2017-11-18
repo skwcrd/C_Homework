@@ -8,7 +8,6 @@
 #define SECOND 60
 #define C 299792458
 
-
 ////Area, Surface Area and Volume reference sheet.
 ////Two-dimensional plane shapes and Three-dimensional solid shapes.
 
