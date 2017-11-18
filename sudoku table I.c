@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 main()
 {
 	int i,j;
@@ -27,6 +28,7 @@ main()
 /*
 
 #include<stdio.h>
+
 main()
 {
 	int a,b,c,d,e,f,g,h;
