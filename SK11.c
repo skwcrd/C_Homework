@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 float pay;
+
 int main(void)
 {
     int u;
