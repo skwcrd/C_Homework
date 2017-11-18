@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
+
 double square_root(double);
+
 int main()
 {
     double /*sqrt,*/n;
