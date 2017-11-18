@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 main()
 {
 	int year;
@@ -17,6 +18,7 @@ main()
 /*
 
 #include<stdio.h>
+
 #define day 365
 #define hour 24
 #define minute 60
