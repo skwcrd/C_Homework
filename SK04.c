@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 void triangle(int);
+
 int main(void)
 {
     int i,n,x;
