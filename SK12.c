@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include"SK.c"
+
 int main(void)
 {
     long long num,n,count=0;
