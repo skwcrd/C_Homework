@@ -58,7 +58,7 @@ void fill_square(int fill_count,int square[3][3])
 	}
 }
 
-int main()
+int main(void)
 {
 	int i,square[3][3];
 	
