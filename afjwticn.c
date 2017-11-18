@@ -1,10 +1,12 @@
 #include<stdio.h>
 #include<math.h>
+
 typedef struct{
     char id[9],first_name[30],last_name[30];
     char grade;
     double score;
 }student;
+
 int main(void)
 {
     int i,j,num;
