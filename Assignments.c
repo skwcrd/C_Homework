@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
+
 struct proflie{
     char firstname[30],lastname[30];
     char id[10];
@@ -8,9 +9,12 @@ struct proflie{
     char phone[12];
     int age;
 }temp,record[100000];
+
 int num=0;
+
 void main_menu();
 void check_choice(int);
+
 int main(void)
 {
     char ch;
