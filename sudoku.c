@@ -12,7 +12,7 @@ void init_used();
 void read_input(char file_name[100],int sudoku[9][9]);
 void solve_sudoku(int sudoku[9][9],position pos);
 
-int main(int argc,char *argv[])
+int main(int argc, char *argv[])
 {
 	int sudoku[9][9];
 	position first_pos;
