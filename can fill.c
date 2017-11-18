@@ -10,6 +10,7 @@ bool used_in_col[9][10];
 bool used_in_block[3][3][10];
 
 void set_used(int number,position pos,bool use);
+void read_input(char file_name[100],int sudoku[9][9],int *count,int ***test);
 
 void set_used(int number,position pos,bool use)
 {
@@ -31,8 +32,6 @@ void init_used()
 		}
 	}
 }
-
-void read_input(char file_name[100],int sudoku[9][9],int *count,int ***test);
 
 void read_input(char file_name[100],int sudoku[9][9],int *count,int ***test)
 {
