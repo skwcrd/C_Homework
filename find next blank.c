@@ -53,7 +53,7 @@ position find_next_blank(int sudoku[9][9],position pos)
 	return next_pos;
 }
 
-int main(int argc,char *argv[])
+int main(int argc, char *argv[])
 {
 	int i,count,**test_case,sudoku[9][9];
 	
