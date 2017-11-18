@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 long long fibo(long long);
+
 int main()
 {
 	long long n;
