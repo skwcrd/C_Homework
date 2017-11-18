@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main()
 {
 	int year;
@@ -13,6 +14,7 @@ int main()
 
 /*
 #include<stdio.h>
+
 main()
 {
 	int year;
