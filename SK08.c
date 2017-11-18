@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(void)
 {
     int i,j,n,num,num_pro;
