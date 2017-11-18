@@ -1,6 +1,7 @@
 //01
 /*
 #include<stdio.h>
+
 int main()
 {
     typedef struct{
@@ -73,8 +74,10 @@ int main()
 /*
 #include<stdio.h>
 #include<math.h>
+
 #define PI 3.141592653589793
 #define G 9.81
+
 int main()
 {
     char ch;
