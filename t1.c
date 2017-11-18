@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 double installment(double,double,int);
+
 int main(void)
 {
     int i,j,k,n,year;
