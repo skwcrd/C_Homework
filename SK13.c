@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 typedef struct{
     char prefix[5];
     char name[30],last[30];
