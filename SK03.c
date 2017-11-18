@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 void digit(int,int);
+
 int main(void)
 {
     int i,n,a,b;
