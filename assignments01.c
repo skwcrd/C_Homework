@@ -1,5 +1,6 @@
 /*
 #include<stdio.h>
+
 int main()
 {
 	
@@ -10,6 +11,7 @@ int main()
 //assignments1
 /*
 #include<stdio.h>
+
 int main()
 {
 	int i,sum;
@@ -27,6 +29,7 @@ int main()
 //assignments2
 /*
 #include<stdio.h>
+
 int main()
 {
 	int i,vowel = 0,nonVowel = 0;
@@ -54,6 +57,7 @@ int main()
 //assignments3
 /*
 #include<stdio.h>
+
 int main()
 {
 	int i=0,cash_1000,cash_500,cash_100,sum=0;
@@ -111,6 +115,7 @@ int main()
 //assignments4
 /*
 #include<stdio.h>
+
 int main()
 {
 	int i,j,num;
@@ -223,6 +228,7 @@ void menu()
 //assignments6
 /*
 #include<stdio.h>
+
 int main()
 {
 	typedef struct{
