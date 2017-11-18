@@ -1,10 +1,13 @@
 #include<stdio.h>
+
 typedef struct{
     char firstname[30],surname[30],id[10];
     float grade;
     int age;
 }student;
+
 int num;
+
 int main(void)
 {
     int i;
